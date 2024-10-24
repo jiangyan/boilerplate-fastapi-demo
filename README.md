@@ -1,2 +1,1 @@
-# boilerplate-fastapi-demo
-A task management application using FastAPI
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
